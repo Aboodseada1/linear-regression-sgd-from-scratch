@@ -7,7 +7,7 @@
 
 ## 🧠 Overview
 
-This repository contains **Assignment 1** of the *Artificial Intelligence Course (Fall 2026)*, featuring two main tasks:
+This repository contains **Assignment 1** of the *Artificial Intelligence Course (Fall 2025)*, featuring two main tasks:
 
 1. 🧩 **10 Types of Machine Learning Optimizers** — Explained in detail in the provided PDF
 2. 📈 **Linear Regression using Stochastic Gradient Descent (SGD)** — Implemented **from scratch**
@@ -265,7 +265,7 @@ Assignment-1/
 
 **👤 Name:** Abd El-Rahman Mahmoud Seada
 **🎓 Student ID:** 201801343
-**📘 Course:** Artificial Intelligence – Fall 2026
+**📘 Course:** Artificial Intelligence – Fall 2025
 
 ---
 
